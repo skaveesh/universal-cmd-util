@@ -5,7 +5,7 @@ description = "Universal Command Line Utitity"
 authors = ["Nipun Dilshan", "Samintha Kaveesh"]
 license = ""
 repository = "https://github.com/skaveesh/universal-cmd-util.git"
-edition = "2023"
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
